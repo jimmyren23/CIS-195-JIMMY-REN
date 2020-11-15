@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>362386420388-6taelmo9ptcfajsjl8poi3k3683iltb5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.362386420388-6taelmo9ptcfajsjl8poi3k3683iltb5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-EvXzj6dBXZH210rjdmCJWssnXCJqmto</string>
+	<key>GCM_SENDER_ID</key>
+	<string>362386420388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>JimmyRen.NationalPark</string>
+	<key>PROJECT_ID</key>
+	<string>nationalparks-d251d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nationalparks-d251d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:362386420388:ios:f7473c9908b5b69e08ec31</string>
+	<key>DATABASE_URL</key>
+	<string>https://nationalparks-d251d.firebaseio.com</string>
+</dict>
+</plist>
